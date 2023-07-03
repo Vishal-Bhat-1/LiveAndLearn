@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/LiveAndLearn/static/css/main.092255bd.css",
+    "main.js": "/LiveAndLearn/static/js/main.845d32d6.js",
+    "static/media/t5.png": "/LiveAndLearn/static/media/t5.abc6b3b74b72249daa10.png",
+    "static/media/Contact.png": "/LiveAndLearn/static/media/Contact.5e9c7ac12b91c7eddc48.png",
+    "static/media/About3.png": "/LiveAndLearn/static/media/About3.a3416dc97d856c851827.png",
+    "static/media/Chat.png": "/LiveAndLearn/static/media/Chat.8b100c1881aebd9fad51.png",
+    "static/media/t1.png": "/LiveAndLearn/static/media/t1.6e7b4a0bdc9afed1f1c1.png",
+    "static/media/t2.png": "/LiveAndLearn/static/media/t2.0ccd791d1424ff760856.png",
+    "static/media/t4.png": "/LiveAndLearn/static/media/t4.737a3ac235c129514f50.png",
+    "static/media/t3.png": "/LiveAndLearn/static/media/t3.68464b72c72fe5866076.png",
+    "index.html": "/LiveAndLearn/index.html",
+    "main.092255bd.css.map": "/LiveAndLearn/static/css/main.092255bd.css.map",
+    "main.845d32d6.js.map": "/LiveAndLearn/static/js/main.845d32d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.092255bd.css",
+    "static/js/main.845d32d6.js"
+  ]
+}
